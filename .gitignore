@@ -1,0 +1,35 @@
+# --- Virtual env ---
+.winvenv/
+
+# --- IDE ---
+.idea/
+.pytest_cache/
+__pycache__/
+
+# --- Python ---
+*.pyc
+
+# --- Runtime data ---
+counterpick/overlay_data.json
+counterpick/overlay_state.json
+counterpick/tmp_screenshots/
+
+# --- Build / Release ---
+counterpick/scripts_for_help/build/
+counterpick/scripts_for_help/dist/
+counterpick/scripts_for_help/Output/
+counterpick/release_stub/
+
+# --- Binaries ---
+*.exe
+*.zip
+*.bin
+*.mp4
+
+# --- YOLO runs (keep only weights) ---
+counterpick/ml/runs/**
+!counterpick/ml/runs/detect/
+!counterpick/ml/runs/detect/train/
+counterpick/ml/runs/detect/train/*
+!counterpick/ml/runs/detect/train/weights/
+!counterpick/ml/runs/detect/train/weights/*.pt

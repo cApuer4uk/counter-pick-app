@@ -1,0 +1,7 @@
+powershell
+# 1. Очистка системной и пользовательской TEMP
+Remove-Item -Path "$env:TEMP\*" -Recurse -Force -ErrorAction SilentlyContinue
+Remove-Item -Path "C:\Windows\Temp\*" -Recurse -Force -ErrorAction SilentlyContinue
+
+# 2. Очистка кэша PyInstaller (если ты часто собираешь exe)
+Remove-Item -Path "$env:LOCALAPPDATA\pyinstaller" -Recurse -Force -ErrorAction SilentlyContinue

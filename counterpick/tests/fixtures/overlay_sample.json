@@ -1,0 +1,92 @@
+[
+  {
+    "hero": "dazzle",
+    "counters": [
+      "slark",
+      "weaver",
+      "phantom_lancer",
+      "riki"
+    ],
+    "box": [
+      1399,
+      333,
+      1491,
+      385
+    ]
+  },
+  {
+    "hero": "io",
+    "counters": [
+      "troll_warlord",
+      "ancient_apparition",
+      "underlord",
+      "monkey_king"
+    ],
+    "box": [
+      1572,
+      332,
+      1663,
+      385
+    ]
+  },
+  {
+    "hero": "winter_wyvern",
+    "counters": [
+      "timbersaw",
+      "sand_king",
+      "antimage",
+      "pugna"
+    ],
+    "box": [
+      1398,
+      387,
+      1491,
+      438
+    ]
+  },
+  {
+    "hero": "legion_commander",
+    "counters": [
+      "life_stealer",
+      "ember_spirit",
+      "faceless_void",
+      "huskar"
+    ],
+    "box": [
+      1572,
+      387,
+      1664,
+      439
+    ]
+  },
+  {
+    "hero": "alchemist",
+    "counters": [
+      "slark",
+      "antimage",
+      "brewmaster",
+      "batrider"
+    ],
+    "box": [
+      1399,
+      441,
+      1490,
+      493
+    ]
+  },
+  {
+    "hero": "marci",
+    "counters": [
+      "venomancer",
+      "techies",
+      "enigma",
+      "bloodseeker"
+    ],
+    "box": [
+      1399,
+      387,
+      1490,
+      439
+    ]
+  }
+]

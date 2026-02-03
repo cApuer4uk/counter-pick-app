@@ -1,0 +1,9 @@
+ultralytics==8.3.152
+opencv-python==4.11.0.86
+mss==10.0.0
+pywin32
+numpy==2.2.6
+pillow==11.2.1
+PyYAML
+requests==2.32.3
+tqdm==4.67.1

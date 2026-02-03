@@ -1,0 +1,3782 @@
+[
+    {
+        "id": 1,
+        "hero": "abaddon",
+        "counters": [
+            {
+                "counter": "shadow_demon",
+                "score": 100
+            },
+            {
+                "counter": "brewmaster",
+                "score": 84
+            },
+            {
+                "counter": "dark_seer",
+                "score": 68
+            },
+            {
+                "counter": "meepo",
+                "score": 52
+            },
+            {
+                "counter": "monkey_king",
+                "score": 36
+            },
+            {
+                "counter": "outworld_destroyer",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "hero": "alchemist",
+        "counters": [
+            {
+                "counter": "slark",
+                "score": 100
+            },
+            {
+                "counter": "antimage",
+                "score": 84
+            },
+            {
+                "counter": "brewmaster",
+                "score": 68
+            },
+            {
+                "counter": "batrider",
+                "score": 52
+            },
+            {
+                "counter": "bounty_hunter",
+                "score": 36
+            },
+            {
+                "counter": "doom",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "hero": "ancient_apparition",
+        "counters": [
+            {
+                "counter": "brewmaster",
+                "score": 100
+            },
+            {
+                "counter": "lycan",
+                "score": 84
+            },
+            {
+                "counter": "storm_spirit",
+                "score": 68
+            },
+            {
+                "counter": "puck",
+                "score": 52
+            },
+            {
+                "counter": "arc_warden",
+                "score": 36
+            },
+            {
+                "counter": "phantom_lancer",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "hero": "antimage",
+        "counters": [
+            {
+                "counter": "huskar",
+                "score": 100
+            },
+            {
+                "counter": "meepo",
+                "score": 84
+            },
+            {
+                "counter": "axe",
+                "score": 68
+            },
+            {
+                "counter": "lone_druid",
+                "score": 52
+            },
+            {
+                "counter": "legion_commander",
+                "score": 36
+            },
+            {
+                "counter": "marci",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "hero": "arc_warden",
+        "counters": [
+            {
+                "counter": "meepo",
+                "score": 100
+            },
+            {
+                "counter": "chen",
+                "score": 84
+            },
+            {
+                "counter": "broodmother",
+                "score": 68
+            },
+            {
+                "counter": "centaur",
+                "score": 52
+            },
+            {
+                "counter": "phantom_lancer",
+                "score": 36
+            },
+            {
+                "counter": "naga_siren",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "hero": "axe",
+        "counters": [
+            {
+                "counter": "timbersaw",
+                "score": 100
+            },
+            {
+                "counter": "primal_beast",
+                "score": 84
+            },
+            {
+                "counter": "batrider",
+                "score": 68
+            },
+            {
+                "counter": "venomancer",
+                "score": 52
+            },
+            {
+                "counter": "tiny",
+                "score": 36
+            },
+            {
+                "counter": "doom",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "hero": "bane",
+        "counters": [
+            {
+                "counter": "naga_siren",
+                "score": 100
+            },
+            {
+                "counter": "chaos_knight",
+                "score": 84
+            },
+            {
+                "counter": "chen",
+                "score": 68
+            },
+            {
+                "counter": "abaddon",
+                "score": 52
+            },
+            {
+                "counter": "phantom_lancer",
+                "score": 36
+            },
+            {
+                "counter": "lycan",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "hero": "batrider",
+        "counters": [
+            {
+                "counter": "ember_spirit",
+                "score": 100
+            },
+            {
+                "counter": "tidehunter",
+                "score": 84
+            },
+            {
+                "counter": "brewmaster",
+                "score": 68
+            },
+            {
+                "counter": "abaddon",
+                "score": 52
+            },
+            {
+                "counter": "queenofpain",
+                "score": 36
+            },
+            {
+                "counter": "bane",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "hero": "beastmaster",
+        "counters": [
+            {
+                "counter": "medusa",
+                "score": 100
+            },
+            {
+                "counter": "gyrocopter",
+                "score": 84
+            },
+            {
+                "counter": "bristleback",
+                "score": 68
+            },
+            {
+                "counter": "chen",
+                "score": 52
+            },
+            {
+                "counter": "dazzle",
+                "score": 36
+            },
+            {
+                "counter": "clinkz",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "hero": "bloodseeker",
+        "counters": [
+            {
+                "counter": "medusa",
+                "score": 100
+            },
+            {
+                "counter": "storm_spirit",
+                "score": 84
+            },
+            {
+                "counter": "juggernaut",
+                "score": 68
+            },
+            {
+                "counter": "natures_prophet",
+                "score": 52
+            },
+            {
+                "counter": "naga_siren",
+                "score": 36
+            },
+            {
+                "counter": "life_stealer",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "hero": "bounty_hunter",
+        "counters": [
+            {
+                "counter": "naga_siren",
+                "score": 100
+            },
+            {
+                "counter": "meepo",
+                "score": 84
+            },
+            {
+                "counter": "legion_commander",
+                "score": 68
+            },
+            {
+                "counter": "slark",
+                "score": 52
+            },
+            {
+                "counter": "abaddon",
+                "score": 36
+            },
+            {
+                "counter": "phantom_lancer",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "hero": "brewmaster",
+        "counters": [
+            {
+                "counter": "chen",
+                "score": 100
+            },
+            {
+                "counter": "omniknight",
+                "score": 84
+            },
+            {
+                "counter": "bristleback",
+                "score": 68
+            },
+            {
+                "counter": "lycan",
+                "score": 52
+            },
+            {
+                "counter": "meepo",
+                "score": 36
+            },
+            {
+                "counter": "earth_spirit",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "hero": "bristleback",
+        "counters": [
+            {
+                "counter": "slark",
+                "score": 100
+            },
+            {
+                "counter": "viper",
+                "score": 84
+            },
+            {
+                "counter": "legion_commander",
+                "score": 68
+            },
+            {
+                "counter": "juggernaut",
+                "score": 52
+            },
+            {
+                "counter": "storm_spirit",
+                "score": 36
+            },
+            {
+                "counter": "venomancer",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "hero": "broodmother",
+        "counters": [
+            {
+                "counter": "earthshaker",
+                "score": 100
+            },
+            {
+                "counter": "naga_siren",
+                "score": 84
+            },
+            {
+                "counter": "meepo",
+                "score": 68
+            },
+            {
+                "counter": "crystal_maiden",
+                "score": 52
+            },
+            {
+                "counter": "terrorblade",
+                "score": 36
+            },
+            {
+                "counter": "necrophos",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "hero": "centaur",
+        "counters": [
+            {
+                "counter": "life_stealer",
+                "score": 100
+            },
+            {
+                "counter": "ember_spirit",
+                "score": 84
+            },
+            {
+                "counter": "dazzle",
+                "score": 68
+            },
+            {
+                "counter": "bristleback",
+                "score": 52
+            },
+            {
+                "counter": "witch_doctor",
+                "score": 36
+            },
+            {
+                "counter": "sven",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "hero": "chaos_knight",
+        "counters": [
+            {
+                "counter": "naga_siren",
+                "score": 100
+            },
+            {
+                "counter": "sand_king",
+                "score": 84
+            },
+            {
+                "counter": "phantom_lancer",
+                "score": 68
+            },
+            {
+                "counter": "tidehunter",
+                "score": 52
+            },
+            {
+                "counter": "dark_seer",
+                "score": 36
+            },
+            {
+                "counter": "warlock",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "hero": "chen",
+        "counters": [
+            {
+                "counter": "earth_spirit",
+                "score": 100
+            },
+            {
+                "counter": "slark",
+                "score": 84
+            },
+            {
+                "counter": "marci",
+                "score": 68
+            },
+            {
+                "counter": "sand_king",
+                "score": 52
+            },
+            {
+                "counter": "phantom_lancer",
+                "score": 36
+            },
+            {
+                "counter": "kunkka",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "hero": "clinkz",
+        "counters": [
+            {
+                "counter": "phantom_lancer",
+                "score": 100
+            },
+            {
+                "counter": "naga_siren",
+                "score": 84
+            },
+            {
+                "counter": "spectre",
+                "score": 68
+            },
+            {
+                "counter": "terrorblade",
+                "score": 52
+            },
+            {
+                "counter": "bristleback",
+                "score": 36
+            },
+            {
+                "counter": "broodmother",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "hero": "clockwerk",
+        "counters": [
+            {
+                "counter": "huskar",
+                "score": 100
+            },
+            {
+                "counter": "beastmaster",
+                "score": 84
+            },
+            {
+                "counter": "meepo",
+                "score": 68
+            },
+            {
+                "counter": "brewmaster",
+                "score": 52
+            },
+            {
+                "counter": "antimage",
+                "score": 36
+            },
+            {
+                "counter": "phantom_lancer",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "hero": "crystal_maiden",
+        "counters": [
+            {
+                "counter": "rubick",
+                "score": 100
+            },
+            {
+                "counter": "enigma",
+                "score": 84
+            },
+            {
+                "counter": "juggernaut",
+                "score": 68
+            },
+            {
+                "counter": "dawnbreaker",
+                "score": 52
+            },
+            {
+                "counter": "witch_doctor",
+                "score": 36
+            },
+            {
+                "counter": "pudge",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "hero": "dark_seer",
+        "counters": [
+            {
+                "counter": "ursa",
+                "score": 100
+            },
+            {
+                "counter": "sven",
+                "score": 84
+            },
+            {
+                "counter": "earthshaker",
+                "score": 68
+            },
+            {
+                "counter": "oracle",
+                "score": 52
+            },
+            {
+                "counter": "faceless_void",
+                "score": 36
+            },
+            {
+                "counter": "kez",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "hero": "dark_willow",
+        "counters": [
+            {
+                "counter": "naga_siren",
+                "score": 100
+            },
+            {
+                "counter": "axe",
+                "score": 84
+            },
+            {
+                "counter": "juggernaut",
+                "score": 68
+            },
+            {
+                "counter": "phantom_lancer",
+                "score": 52
+            },
+            {
+                "counter": "puck",
+                "score": 36
+            },
+            {
+                "counter": "techies",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "hero": "dawnbreaker",
+        "counters": [
+            {
+                "counter": "silencer",
+                "score": 100
+            },
+            {
+                "counter": "elder_titan",
+                "score": 84
+            },
+            {
+                "counter": "bristleback",
+                "score": 68
+            },
+            {
+                "counter": "ancient_apparition",
+                "score": 52
+            },
+            {
+                "counter": "phoenix",
+                "score": 36
+            },
+            {
+                "counter": "morphling",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "hero": "dazzle",
+        "counters": [
+            {
+                "counter": "slark",
+                "score": 100
+            },
+            {
+                "counter": "weaver",
+                "score": 84
+            },
+            {
+                "counter": "phantom_lancer",
+                "score": 68
+            },
+            {
+                "counter": "riki",
+                "score": 52
+            },
+            {
+                "counter": "abaddon",
+                "score": 36
+            },
+            {
+                "counter": "ancient_apparition",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "hero": "death_prophet",
+        "counters": [
+            {
+                "counter": "terrorblade",
+                "score": 100
+            },
+            {
+                "counter": "undying",
+                "score": 84
+            },
+            {
+                "counter": "broodmother",
+                "score": 68
+            },
+            {
+                "counter": "ancient_apparition",
+                "score": 52
+            },
+            {
+                "counter": "antimage",
+                "score": 36
+            },
+            {
+                "counter": "bristleback",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "hero": "disruptor",
+        "counters": [
+            {
+                "counter": "chen",
+                "score": 100
+            },
+            {
+                "counter": "natures_prophet",
+                "score": 84
+            },
+            {
+                "counter": "sniper",
+                "score": 68
+            },
+            {
+                "counter": "shadow_demon",
+                "score": 52
+            },
+            {
+                "counter": "bloodseeker",
+                "score": 36
+            },
+            {
+                "counter": "arc_warden",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "hero": "doom",
+        "counters": [
+            {
+                "counter": "batrider",
+                "score": 100
+            },
+            {
+                "counter": "arc_warden",
+                "score": 84
+            },
+            {
+                "counter": "meepo",
+                "score": 68
+            },
+            {
+                "counter": "spectre",
+                "score": 52
+            },
+            {
+                "counter": "medusa",
+                "score": 36
+            },
+            {
+                "counter": "drow_ranger",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "hero": "dragon_knight",
+        "counters": [
+            {
+                "counter": "viper",
+                "score": 100
+            },
+            {
+                "counter": "venomancer",
+                "score": 84
+            },
+            {
+                "counter": "arc_warden",
+                "score": 68
+            },
+            {
+                "counter": "slark",
+                "score": 52
+            },
+            {
+                "counter": "ancient_apparition",
+                "score": 36
+            },
+            {
+                "counter": "witch_doctor",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "hero": "drow_ranger",
+        "counters": [
+            {
+                "counter": "phantom_lancer",
+                "score": 100
+            },
+            {
+                "counter": "mars",
+                "score": 84
+            },
+            {
+                "counter": "chen",
+                "score": 68
+            },
+            {
+                "counter": "primal_beast",
+                "score": 52
+            },
+            {
+                "counter": "centaur",
+                "score": 36
+            },
+            {
+                "counter": "lycan",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "hero": "earth_spirit",
+        "counters": [
+            {
+                "counter": "life_stealer",
+                "score": 100
+            },
+            {
+                "counter": "lone_druid",
+                "score": 84
+            },
+            {
+                "counter": "troll_warlord",
+                "score": 68
+            },
+            {
+                "counter": "meepo",
+                "score": 52
+            },
+            {
+                "counter": "broodmother",
+                "score": 36
+            },
+            {
+                "counter": "batrider",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "hero": "earthshaker",
+        "counters": [
+            {
+                "counter": "viper",
+                "score": 100
+            },
+            {
+                "counter": "templar_assassin",
+                "score": 84
+            },
+            {
+                "counter": "huskar",
+                "score": 68
+            },
+            {
+                "counter": "tiny",
+                "score": 52
+            },
+            {
+                "counter": "sniper",
+                "score": 36
+            },
+            {
+                "counter": "gyrocopter",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "hero": "elder_titan",
+        "counters": [
+            {
+                "counter": "chen",
+                "score": 100
+            },
+            {
+                "counter": "troll_warlord",
+                "score": 84
+            },
+            {
+                "counter": "naga_siren",
+                "score": 68
+            },
+            {
+                "counter": "enchantress",
+                "score": 52
+            },
+            {
+                "counter": "shadow_demon",
+                "score": 36
+            },
+            {
+                "counter": "clinkz",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "hero": "ember_spirit",
+        "counters": [
+            {
+                "counter": "huskar",
+                "score": 100
+            },
+            {
+                "counter": "meepo",
+                "score": 84
+            },
+            {
+                "counter": "monkey_king",
+                "score": 68
+            },
+            {
+                "counter": "slark",
+                "score": 52
+            },
+            {
+                "counter": "lone_druid",
+                "score": 36
+            },
+            {
+                "counter": "broodmother",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "hero": "enchantress",
+        "counters": [
+            {
+                "counter": "marci",
+                "score": 100
+            },
+            {
+                "counter": "phantom_assassin",
+                "score": 84
+            },
+            {
+                "counter": "slark",
+                "score": 68
+            },
+            {
+                "counter": "riki",
+                "score": 52
+            },
+            {
+                "counter": "mars",
+                "score": 36
+            },
+            {
+                "counter": "crystal_maiden",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "hero": "enigma",
+        "counters": [
+            {
+                "counter": "rubick",
+                "score": 100
+            },
+            {
+                "counter": "medusa",
+                "score": 84
+            },
+            {
+                "counter": "warlock",
+                "score": 68
+            },
+            {
+                "counter": "kunkka",
+                "score": 52
+            },
+            {
+                "counter": "gyrocopter",
+                "score": 36
+            },
+            {
+                "counter": "wraith_king",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "hero": "faceless_void",
+        "counters": [
+            {
+                "counter": "meepo",
+                "score": 100
+            },
+            {
+                "counter": "huskar",
+                "score": 84
+            },
+            {
+                "counter": "slark",
+                "score": 68
+            },
+            {
+                "counter": "lone_druid",
+                "score": 52
+            },
+            {
+                "counter": "naga_siren",
+                "score": 36
+            },
+            {
+                "counter": "chaos_knight",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "hero": "grimstroke",
+        "counters": [
+            {
+                "counter": "lycan",
+                "score": 100
+            },
+            {
+                "counter": "visage",
+                "score": 84
+            },
+            {
+                "counter": "spectre",
+                "score": 68
+            },
+            {
+                "counter": "sniper",
+                "score": 52
+            },
+            {
+                "counter": "clinkz",
+                "score": 36
+            },
+            {
+                "counter": "razor",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "hero": "gyrocopter",
+        "counters": [
+            {
+                "counter": "viper",
+                "score": 100
+            },
+            {
+                "counter": "juggernaut",
+                "score": 84
+            },
+            {
+                "counter": "underlord",
+                "score": 68
+            },
+            {
+                "counter": "life_stealer",
+                "score": 52
+            },
+            {
+                "counter": "bristleback",
+                "score": 36
+            },
+            {
+                "counter": "ancient_apparition",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "hero": "hoodwink",
+        "counters": [
+            {
+                "counter": "timbersaw",
+                "score": 100
+            },
+            {
+                "counter": "primal_beast",
+                "score": 84
+            },
+            {
+                "counter": "axe",
+                "score": 68
+            },
+            {
+                "counter": "spirit_breaker",
+                "score": 52
+            },
+            {
+                "counter": "centaur",
+                "score": 36
+            },
+            {
+                "counter": "mars",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "hero": "huskar",
+        "counters": [
+            {
+                "counter": "ancient_apparition",
+                "score": 100
+            },
+            {
+                "counter": "viper",
+                "score": 84
+            },
+            {
+                "counter": "chaos_knight",
+                "score": 68
+            },
+            {
+                "counter": "necrophos",
+                "score": 52
+            },
+            {
+                "counter": "naga_siren",
+                "score": 36
+            },
+            {
+                "counter": "windrunner",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "hero": "invoker",
+        "counters": [
+            {
+                "counter": "puck",
+                "score": 100
+            },
+            {
+                "counter": "broodmother",
+                "score": 84
+            },
+            {
+                "counter": "lycan",
+                "score": 68
+            },
+            {
+                "counter": "kez",
+                "score": 52
+            },
+            {
+                "counter": "void_spirit",
+                "score": 36
+            },
+            {
+                "counter": "pangolier",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "hero": "io",
+        "counters": [
+            {
+                "counter": "troll_warlord",
+                "score": 100
+            },
+            {
+                "counter": "ancient_apparition",
+                "score": 84
+            },
+            {
+                "counter": "underlord",
+                "score": 68
+            },
+            {
+                "counter": "monkey_king",
+                "score": 52
+            },
+            {
+                "counter": "broodmother",
+                "score": 36
+            },
+            {
+                "counter": "magnataur",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "hero": "jakiro",
+        "counters": [
+            {
+                "counter": "rubick",
+                "score": 100
+            },
+            {
+                "counter": "ringmaster",
+                "score": 84
+            },
+            {
+                "counter": "pangolier",
+                "score": 68
+            },
+            {
+                "counter": "faceless_void",
+                "score": 52
+            },
+            {
+                "counter": "pugna",
+                "score": 36
+            },
+            {
+                "counter": "windrunner",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "hero": "juggernaut",
+        "counters": [
+            {
+                "counter": "visage",
+                "score": 100
+            },
+            {
+                "counter": "riki",
+                "score": 84
+            },
+            {
+                "counter": "antimage",
+                "score": 68
+            },
+            {
+                "counter": "morphling",
+                "score": 52
+            },
+            {
+                "counter": "void_spirit",
+                "score": 36
+            },
+            {
+                "counter": "death_prophet",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "hero": "keeper_of_the_light",
+        "counters": [
+            {
+                "counter": "storm_spirit",
+                "score": 100
+            },
+            {
+                "counter": "huskar",
+                "score": 84
+            },
+            {
+                "counter": "lycan",
+                "score": 68
+            },
+            {
+                "counter": "antimage",
+                "score": 52
+            },
+            {
+                "counter": "phantom_assassin",
+                "score": 36
+            },
+            {
+                "counter": "enchantress",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "hero": "kez",
+        "counters": [
+            {
+                "counter": "tinker",
+                "score": 100
+            },
+            {
+                "counter": "drow_ranger",
+                "score": 84
+            },
+            {
+                "counter": "tidehunter",
+                "score": 68
+            },
+            {
+                "counter": "clockwerk",
+                "score": 52
+            },
+            {
+                "counter": "troll_warlord",
+                "score": 36
+            },
+            {
+                "counter": "bane",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "hero": "kunkka",
+        "counters": [
+            {
+                "counter": "life_stealer",
+                "score": 100
+            },
+            {
+                "counter": "ember_spirit",
+                "score": 84
+            },
+            {
+                "counter": "faceless_void",
+                "score": 68
+            },
+            {
+                "counter": "huskar",
+                "score": 52
+            },
+            {
+                "counter": "keeper_of_the_light",
+                "score": 36
+            },
+            {
+                "counter": "pangolier",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "hero": "legion_commander",
+        "counters": [
+            {
+                "counter": "life_stealer",
+                "score": 100
+            },
+            {
+                "counter": "ember_spirit",
+                "score": 84
+            },
+            {
+                "counter": "faceless_void",
+                "score": 68
+            },
+            {
+                "counter": "huskar",
+                "score": 52
+            },
+            {
+                "counter": "keeper_of_the_light",
+                "score": 36
+            },
+            {
+                "counter": "pangolier",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "hero": "leshrac",
+        "counters": [
+            {
+                "counter": "omniknight",
+                "score": 100
+            },
+            {
+                "counter": "winter_wyvern",
+                "score": 84
+            },
+            {
+                "counter": "shadow_demon",
+                "score": 68
+            },
+            {
+                "counter": "dawnbreaker",
+                "score": 52
+            },
+            {
+                "counter": "tusk",
+                "score": 36
+            },
+            {
+                "counter": "kunkka",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "hero": "lich",
+        "counters": [
+            {
+                "counter": "undying",
+                "score": 100
+            },
+            {
+                "counter": "medusa",
+                "score": 84
+            },
+            {
+                "counter": "queenofpain",
+                "score": 68
+            },
+            {
+                "counter": "outworld_destroyer",
+                "score": 52
+            },
+            {
+                "counter": "drow_ranger",
+                "score": 36
+            },
+            {
+                "counter": "bristleback",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "hero": "life_stealer",
+        "counters": [
+            {
+                "counter": "pugna",
+                "score": 100
+            },
+            {
+                "counter": "brewmaster",
+                "score": 84
+            },
+            {
+                "counter": "bristleback",
+                "score": 68
+            },
+            {
+                "counter": "weaver",
+                "score": 52
+            },
+            {
+                "counter": "shadow_demon",
+                "score": 36
+            },
+            {
+                "counter": "timbersaw",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "hero": "lina",
+        "counters": [
+            {
+                "counter": "broodmother",
+                "score": 100
+            },
+            {
+                "counter": "razor",
+                "score": 84
+            },
+            {
+                "counter": "morphling",
+                "score": 68
+            },
+            {
+                "counter": "slardar",
+                "score": 52
+            },
+            {
+                "counter": "natures_prophet",
+                "score": 36
+            },
+            {
+                "counter": "bristleback",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "hero": "lion",
+        "counters": [
+            {
+                "counter": "axe",
+                "score": 100
+            },
+            {
+                "counter": "mars",
+                "score": 84
+            },
+            {
+                "counter": "bristleback",
+                "score": 68
+            },
+            {
+                "counter": "centaur",
+                "score": 52
+            },
+            {
+                "counter": "phantom_assassin",
+                "score": 36
+            },
+            {
+                "counter": "razor",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "hero": "lone_druid",
+        "counters": [
+            {
+                "counter": "rubick",
+                "score": 100
+            },
+            {
+                "counter": "gyrocopter",
+                "score": 84
+            },
+            {
+                "counter": "beastmaster",
+                "score": 68
+            },
+            {
+                "counter": "lina",
+                "score": 52
+            },
+            {
+                "counter": "pangolier",
+                "score": 36
+            },
+            {
+                "counter": "razor",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "hero": "luna",
+        "counters": [
+            {
+                "counter": "naga_siren",
+                "score": 100
+            },
+            {
+                "counter": "monkey_king",
+                "score": 84
+            },
+            {
+                "counter": "brewmaster",
+                "score": 68
+            },
+            {
+                "counter": "broodmother",
+                "score": 52
+            },
+            {
+                "counter": "winter_wyvern",
+                "score": 36
+            },
+            {
+                "counter": "phoenix",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "hero": "lycan",
+        "counters": [
+            {
+                "counter": "dark_seer",
+                "score": 100
+            },
+            {
+                "counter": "underlord",
+                "score": 84
+            },
+            {
+                "counter": "bristleback",
+                "score": 68
+            },
+            {
+                "counter": "medusa",
+                "score": 52
+            },
+            {
+                "counter": "rubick",
+                "score": 36
+            },
+            {
+                "counter": "slark",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "hero": "magnataur",
+        "counters": [
+            {
+                "counter": "tinker",
+                "score": 100
+            },
+            {
+                "counter": "earthshaker",
+                "score": 84
+            },
+            {
+                "counter": "axe",
+                "score": 68
+            },
+            {
+                "counter": "winter_wyvern",
+                "score": 52
+            },
+            {
+                "counter": "shadow_demon",
+                "score": 36
+            },
+            {
+                "counter": "dazzle",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "hero": "marci",
+        "counters": [
+            {
+                "counter": "venomancer",
+                "score": 100
+            },
+            {
+                "counter": "techies",
+                "score": 84
+            },
+            {
+                "counter": "enigma",
+                "score": 68
+            },
+            {
+                "counter": "bloodseeker",
+                "score": 52
+            },
+            {
+                "counter": "phantom_assassin",
+                "score": 36
+            },
+            {
+                "counter": "weaver",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "hero": "mars",
+        "counters": [
+            {
+                "counter": "magnataur",
+                "score": 100
+            },
+            {
+                "counter": "troll_warlord",
+                "score": 84
+            },
+            {
+                "counter": "pangolier",
+                "score": 68
+            },
+            {
+                "counter": "techies",
+                "score": 52
+            },
+            {
+                "counter": "winter_wyvern",
+                "score": 36
+            },
+            {
+                "counter": "dark_willow",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "hero": "medusa",
+        "counters": [
+            {
+                "counter": "life_stealer",
+                "score": 100
+            },
+            {
+                "counter": "antimage",
+                "score": 84
+            },
+            {
+                "counter": "faceless_void",
+                "score": 68
+            },
+            {
+                "counter": "void_spirit",
+                "score": 52
+            },
+            {
+                "counter": "puck",
+                "score": 36
+            },
+            {
+                "counter": "earth_spirit",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "hero": "meepo",
+        "counters": [
+            {
+                "counter": "antimage",
+                "score": 100
+            },
+            {
+                "counter": "dark_seer",
+                "score": 84
+            },
+            {
+                "counter": "alchemist",
+                "score": 68
+            },
+            {
+                "counter": "slark",
+                "score": 52
+            },
+            {
+                "counter": "centaur",
+                "score": 36
+            },
+            {
+                "counter": "sniper",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "hero": "mirana",
+        "counters": [
+            {
+                "counter": "naga_siren",
+                "score": 100
+            },
+            {
+                "counter": "meepo",
+                "score": 84
+            },
+            {
+                "counter": "terrorblade",
+                "score": 68
+            },
+            {
+                "counter": "bloodseeker",
+                "score": 52
+            },
+            {
+                "counter": "axe",
+                "score": 36
+            },
+            {
+                "counter": "mars",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "hero": "monkey_king",
+        "counters": [
+            {
+                "counter": "batrider",
+                "score": 100
+            },
+            {
+                "counter": "techies",
+                "score": 84
+            },
+            {
+                "counter": "phoenix",
+                "score": 68
+            },
+            {
+                "counter": "muerta",
+                "score": 52
+            },
+            {
+                "counter": "timbersaw",
+                "score": 36
+            },
+            {
+                "counter": "windrunner",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "hero": "morphling",
+        "counters": [
+            {
+                "counter": "doom",
+                "score": 100
+            },
+            {
+                "counter": "nyx_assassin",
+                "score": 84
+            },
+            {
+                "counter": "axe",
+                "score": 68
+            },
+            {
+                "counter": "broodmother",
+                "score": 52
+            },
+            {
+                "counter": "meepo",
+                "score": 36
+            },
+            {
+                "counter": "bane",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "hero": "muerta",
+        "counters": [
+            {
+                "counter": "keeper_of_the_light",
+                "score": 100
+            },
+            {
+                "counter": "invoker",
+                "score": 84
+            },
+            {
+                "counter": "centaur",
+                "score": 68
+            },
+            {
+                "counter": "primal_beast",
+                "score": 52
+            },
+            {
+                "counter": "spectre",
+                "score": 36
+            },
+            {
+                "counter": "skywrath_mage",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "hero": "naga_siren",
+        "counters": [
+            {
+                "counter": "tidehunter",
+                "score": 100
+            },
+            {
+                "counter": "leshrac",
+                "score": 84
+            },
+            {
+                "counter": "sand_king",
+                "score": 68
+            },
+            {
+                "counter": "axe",
+                "score": 52
+            },
+            {
+                "counter": "underlord",
+                "score": 36
+            },
+            {
+                "counter": "necrophos",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "hero": "natures_prophet",
+        "counters": [
+            {
+                "counter": "templar_assassin",
+                "score": 100
+            },
+            {
+                "counter": "broodmother",
+                "score": 84
+            },
+            {
+                "counter": "phantom_assassin",
+                "score": 68
+            },
+            {
+                "counter": "spectre",
+                "score": 52
+            },
+            {
+                "counter": "batrider",
+                "score": 36
+            },
+            {
+                "counter": "kez",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "hero": "necrophos",
+        "counters": [
+            {
+                "counter": "ancient_apparition",
+                "score": 100
+            },
+            {
+                "counter": "leshrac",
+                "score": 84
+            },
+            {
+                "counter": "death_prophet",
+                "score": 68
+            },
+            {
+                "counter": "skywrath_mage",
+                "score": 52
+            },
+            {
+                "counter": "doom",
+                "score": 36
+            },
+            {
+                "counter": "oracle",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "hero": "night_stalker",
+        "counters": [
+            {
+                "counter": "naga_siren",
+                "score": 100
+            },
+            {
+                "counter": "broodmother",
+                "score": 84
+            },
+            {
+                "counter": "lycan",
+                "score": 68
+            },
+            {
+                "counter": "lone_druid",
+                "score": 52
+            },
+            {
+                "counter": "terrorblade",
+                "score": 36
+            },
+            {
+                "counter": "beastmaster",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "hero": "nyx_assassin",
+        "counters": [
+            {
+                "counter": "chen",
+                "score": 100
+            },
+            {
+                "counter": "chaos_knight",
+                "score": 84
+            },
+            {
+                "counter": "slardar",
+                "score": 68
+            },
+            {
+                "counter": "life_stealer",
+                "score": 52
+            },
+            {
+                "counter": "centaur",
+                "score": 36
+            },
+            {
+                "counter": "wraith_king",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "hero": "ogre_magi",
+        "counters": [
+            {
+                "counter": "phantom_lancer",
+                "score": 100
+            },
+            {
+                "counter": "naga_siren",
+                "score": 84
+            },
+            {
+                "counter": "chaos_knight",
+                "score": 68
+            },
+            {
+                "counter": "antimage",
+                "score": 52
+            },
+            {
+                "counter": "enigma",
+                "score": 36
+            },
+            {
+                "counter": "meepo",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "hero": "omniknight",
+        "counters": [
+            {
+                "counter": "shadow_demon",
+                "score": 100
+            },
+            {
+                "counter": "doom",
+                "score": 84
+            },
+            {
+                "counter": "ancient_apparition",
+                "score": 68
+            },
+            {
+                "counter": "witch_doctor",
+                "score": 52
+            },
+            {
+                "counter": "bristleback",
+                "score": 36
+            },
+            {
+                "counter": "warlock",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "hero": "oracle",
+        "counters": [
+            {
+                "counter": "marci",
+                "score": 100
+            },
+            {
+                "counter": "razor",
+                "score": 84
+            },
+            {
+                "counter": "lone_druid",
+                "score": 68
+            },
+            {
+                "counter": "io",
+                "score": 52
+            },
+            {
+                "counter": "antimage",
+                "score": 36
+            },
+            {
+                "counter": "outworld_destroyer",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "hero": "outworld_destroyer",
+        "counters": [
+            {
+                "counter": "arc_warden",
+                "score": 100
+            },
+            {
+                "counter": "nyx_assassin",
+                "score": 84
+            },
+            {
+                "counter": "templar_assassin",
+                "score": 68
+            },
+            {
+                "counter": "broodmother",
+                "score": 52
+            },
+            {
+                "counter": "visage",
+                "score": 36
+            },
+            {
+                "counter": "lycan",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "hero": "pangolier",
+        "counters": [
+            {
+                "counter": "huskar",
+                "score": 100
+            },
+            {
+                "counter": "monkey_king",
+                "score": 84
+            },
+            {
+                "counter": "bloodseeker",
+                "score": 68
+            },
+            {
+                "counter": "elder_titan",
+                "score": 52
+            },
+            {
+                "counter": "terrorblade",
+                "score": 36
+            },
+            {
+                "counter": "gyrocopter",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "hero": "phantom_assassin",
+        "counters": [
+            {
+                "counter": "primal_beast",
+                "score": 100
+            },
+            {
+                "counter": "timbersaw",
+                "score": 84
+            },
+            {
+                "counter": "axe",
+                "score": 68
+            },
+            {
+                "counter": "pudge",
+                "score": 52
+            },
+            {
+                "counter": "pangolier",
+                "score": 36
+            },
+            {
+                "counter": "queenofpain",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "hero": "phantom_lancer",
+        "counters": [
+            {
+                "counter": "sand_king",
+                "score": 100
+            },
+            {
+                "counter": "dark_seer",
+                "score": 84
+            },
+            {
+                "counter": "warlock",
+                "score": 68
+            },
+            {
+                "counter": "necrophos",
+                "score": 52
+            },
+            {
+                "counter": "leshrac",
+                "score": 36
+            },
+            {
+                "counter": "underlord",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "hero": "phoenix",
+        "counters": [
+            {
+                "counter": "huskar",
+                "score": 100
+            },
+            {
+                "counter": "juggernaut",
+                "score": 84
+            },
+            {
+                "counter": "life_stealer",
+                "score": 68
+            },
+            {
+                "counter": "bloodseeker",
+                "score": 52
+            },
+            {
+                "counter": "lina",
+                "score": 36
+            },
+            {
+                "counter": "void_spirit",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "hero": "primal_beast",
+        "counters": [
+            {
+                "counter": "grimstroke",
+                "score": 100
+            },
+            {
+                "counter": "disruptor",
+                "score": 84
+            },
+            {
+                "counter": "visage",
+                "score": 68
+            },
+            {
+                "counter": "witch_doctor",
+                "score": 52
+            },
+            {
+                "counter": "queenofpain",
+                "score": 36
+            },
+            {
+                "counter": "juggernaut",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "hero": "puck",
+        "counters": [
+            {
+                "counter": "night_stalker",
+                "score": 100
+            },
+            {
+                "counter": "riki",
+                "score": 84
+            },
+            {
+                "counter": "broodmother",
+                "score": 68
+            },
+            {
+                "counter": "chen",
+                "score": 52
+            },
+            {
+                "counter": "lone_druid",
+                "score": 36
+            },
+            {
+                "counter": "huskar",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "hero": "pudge",
+        "counters": [
+            {
+                "counter": "pangolier",
+                "score": 100
+            },
+            {
+                "counter": "marci",
+                "score": 84
+            },
+            {
+                "counter": "timbersaw",
+                "score": 68
+            },
+            {
+                "counter": "lycan",
+                "score": 52
+            },
+            {
+                "counter": "ursa",
+                "score": 36
+            },
+            {
+                "counter": "kez",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "hero": "pugna",
+        "counters": [
+            {
+                "counter": "pudge",
+                "score": 100
+            },
+            {
+                "counter": "chaos_knight",
+                "score": 84
+            },
+            {
+                "counter": "nyx_assassin",
+                "score": 68
+            },
+            {
+                "counter": "chen",
+                "score": 52
+            },
+            {
+                "counter": "huskar",
+                "score": 36
+            },
+            {
+                "counter": "antimage",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "hero": "queenofpain",
+        "counters": [
+            {
+                "counter": "ember_spirit",
+                "score": 100
+            },
+            {
+                "counter": "medusa",
+                "score": 84
+            },
+            {
+                "counter": "huskar",
+                "score": 68
+            },
+            {
+                "counter": "puck",
+                "score": 52
+            },
+            {
+                "counter": "antimage",
+                "score": 36
+            },
+            {
+                "counter": "void_spirit",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "hero": "razor",
+        "counters": [
+            {
+                "counter": "morphling",
+                "score": 100
+            },
+            {
+                "counter": "queenofpain",
+                "score": 84
+            },
+            {
+                "counter": "antimage",
+                "score": 68
+            },
+            {
+                "counter": "weaver",
+                "score": 52
+            },
+            {
+                "counter": "terrorblade",
+                "score": 36
+            },
+            {
+                "counter": "faceless_void",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "hero": "riki",
+        "counters": [
+            {
+                "counter": "naga_siren",
+                "score": 100
+            },
+            {
+                "counter": "underlord",
+                "score": 84
+            },
+            {
+                "counter": "bristleback",
+                "score": 68
+            },
+            {
+                "counter": "tiny",
+                "score": 52
+            },
+            {
+                "counter": "bloodseeker",
+                "score": 36
+            },
+            {
+                "counter": "spectre",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "hero": "ringmaster",
+        "counters": [
+            {
+                "counter": "lycan",
+                "score": 100
+            },
+            {
+                "counter": "bloodseeker",
+                "score": 84
+            },
+            {
+                "counter": "pangolier",
+                "score": 68
+            },
+            {
+                "counter": "kez",
+                "score": 52
+            },
+            {
+                "counter": "io",
+                "score": 36
+            },
+            {
+                "counter": "riki",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "hero": "rubick",
+        "counters": [
+            {
+                "counter": "templar_assassin",
+                "score": 100
+            },
+            {
+                "counter": "batrider",
+                "score": 84
+            },
+            {
+                "counter": "ember_spirit",
+                "score": 68
+            },
+            {
+                "counter": "brewmaster",
+                "score": 52
+            },
+            {
+                "counter": "tusk",
+                "score": 36
+            },
+            {
+                "counter": "earth_spirit",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "hero": "sand_king",
+        "counters": [
+            {
+                "counter": "zeus",
+                "score": 100
+            },
+            {
+                "counter": "life_stealer",
+                "score": 84
+            },
+            {
+                "counter": "centaur",
+                "score": 68
+            },
+            {
+                "counter": "queenofpain",
+                "score": 52
+            },
+            {
+                "counter": "juggernaut",
+                "score": 36
+            },
+            {
+                "counter": "storm_spirit",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "hero": "shadow_demon",
+        "counters": [
+            {
+                "counter": "meepo",
+                "score": 100
+            },
+            {
+                "counter": "timbersaw",
+                "score": 84
+            },
+            {
+                "counter": "lone_druid",
+                "score": 68
+            },
+            {
+                "counter": "phantom_lancer",
+                "score": 52
+            },
+            {
+                "counter": "riki",
+                "score": 36
+            },
+            {
+                "counter": "sand_king",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "hero": "shadow_fiend",
+        "counters": [
+            {
+                "counter": "zeus",
+                "score": 100
+            },
+            {
+                "counter": "batrider",
+                "score": 84
+            },
+            {
+                "counter": "wraith_king",
+                "score": 68
+            },
+            {
+                "counter": "spirit_breaker",
+                "score": 52
+            },
+            {
+                "counter": "lina",
+                "score": 36
+            },
+            {
+                "counter": "luna",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "hero": "shadow_shaman",
+        "counters": [
+            {
+                "counter": "phantom_lancer",
+                "score": 100
+            },
+            {
+                "counter": "terrorblade",
+                "score": 84
+            },
+            {
+                "counter": "naga_siren",
+                "score": 68
+            },
+            {
+                "counter": "meepo",
+                "score": 52
+            },
+            {
+                "counter": "omniknight",
+                "score": 36
+            },
+            {
+                "counter": "razor",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "hero": "silencer",
+        "counters": [
+            {
+                "counter": "lycan",
+                "score": 100
+            },
+            {
+                "counter": "lone_druid",
+                "score": 84
+            },
+            {
+                "counter": "abaddon",
+                "score": 68
+            },
+            {
+                "counter": "phantom_lancer",
+                "score": 52
+            },
+            {
+                "counter": "arc_warden",
+                "score": 36
+            },
+            {
+                "counter": "naga_siren",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "hero": "skywrath_mage",
+        "counters": [
+            {
+                "counter": "lycan",
+                "score": 100
+            },
+            {
+                "counter": "chen",
+                "score": 84
+            },
+            {
+                "counter": "medusa",
+                "score": 68
+            },
+            {
+                "counter": "wraith_king",
+                "score": 52
+            },
+            {
+                "counter": "templar_assassin",
+                "score": 36
+            },
+            {
+                "counter": "tidehunter",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "hero": "slardar",
+        "counters": [
+            {
+                "counter": "naga_siren",
+                "score": 100
+            },
+            {
+                "counter": "terrorblade",
+                "score": 84
+            },
+            {
+                "counter": "phantom_lancer",
+                "score": 68
+            },
+            {
+                "counter": "drow_ranger",
+                "score": 52
+            },
+            {
+                "counter": "troll_warlord",
+                "score": 36
+            },
+            {
+                "counter": "tidehunter",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "hero": "slark",
+        "counters": [
+            {
+                "counter": "disruptor",
+                "score": 100
+            },
+            {
+                "counter": "mars",
+                "score": 84
+            },
+            {
+                "counter": "leshrac",
+                "score": 68
+            },
+            {
+                "counter": "elder_titan",
+                "score": 52
+            },
+            {
+                "counter": "grimstroke",
+                "score": 36
+            },
+            {
+                "counter": "techies",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "hero": "snapfire",
+        "counters": [
+            {
+                "counter": "life_stealer",
+                "score": 100
+            },
+            {
+                "counter": "faceless_void",
+                "score": 84
+            },
+            {
+                "counter": "sven",
+                "score": 68
+            },
+            {
+                "counter": "templar_assassin",
+                "score": 52
+            },
+            {
+                "counter": "bristleback",
+                "score": 36
+            },
+            {
+                "counter": "centaur",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "hero": "sniper",
+        "counters": [
+            {
+                "counter": "storm_spirit",
+                "score": 100
+            },
+            {
+                "counter": "primal_beast",
+                "score": 84
+            },
+            {
+                "counter": "spectre",
+                "score": 68
+            },
+            {
+                "counter": "pudge",
+                "score": 52
+            },
+            {
+                "counter": "earth_spirit",
+                "score": 36
+            },
+            {
+                "counter": "centaur",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "hero": "spectre",
+        "counters": [
+            {
+                "counter": "abaddon",
+                "score": 100
+            },
+            {
+                "counter": "meepo",
+                "score": 84
+            },
+            {
+                "counter": "tidehunter",
+                "score": 68
+            },
+            {
+                "counter": "undying",
+                "score": 52
+            },
+            {
+                "counter": "beastmaster",
+                "score": 36
+            },
+            {
+                "counter": "chen",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "hero": "spirit_breaker",
+        "counters": [
+            {
+                "counter": "underlord",
+                "score": 100
+            },
+            {
+                "counter": "clockwerk",
+                "score": 84
+            },
+            {
+                "counter": "naga_siren",
+                "score": 68
+            },
+            {
+                "counter": "necrophos",
+                "score": 52
+            },
+            {
+                "counter": "tiny",
+                "score": 36
+            },
+            {
+                "counter": "mars",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "hero": "storm_spirit",
+        "counters": [
+            {
+                "counter": "meepo",
+                "score": 100
+            },
+            {
+                "counter": "antimage",
+                "score": 84
+            },
+            {
+                "counter": "pugna",
+                "score": 68
+            },
+            {
+                "counter": "riki",
+                "score": 52
+            },
+            {
+                "counter": "oracle",
+                "score": 36
+            },
+            {
+                "counter": "huskar",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "hero": "sven",
+        "counters": [
+            {
+                "counter": "troll_warlord",
+                "score": 100
+            },
+            {
+                "counter": "templar_assassin",
+                "score": 84
+            },
+            {
+                "counter": "enchantress",
+                "score": 68
+            },
+            {
+                "counter": "slardar",
+                "score": 52
+            },
+            {
+                "counter": "bristleback",
+                "score": 36
+            },
+            {
+                "counter": "life_stealer",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "hero": "techies",
+        "counters": [
+            {
+                "counter": "life_stealer",
+                "score": 100
+            },
+            {
+                "counter": "templar_assassin",
+                "score": 84
+            },
+            {
+                "counter": "medusa",
+                "score": 68
+            },
+            {
+                "counter": "juggernaut",
+                "score": 52
+            },
+            {
+                "counter": "batrider",
+                "score": 36
+            },
+            {
+                "counter": "bristleback",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "hero": "templar_assassin",
+        "counters": [
+            {
+                "counter": "phantom_lancer",
+                "score": 100
+            },
+            {
+                "counter": "batrider",
+                "score": 84
+            },
+            {
+                "counter": "naga_siren",
+                "score": 68
+            },
+            {
+                "counter": "terrorblade",
+                "score": 52
+            },
+            {
+                "counter": "sand_king",
+                "score": 36
+            },
+            {
+                "counter": "treant",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "hero": "terrorblade",
+        "counters": [
+            {
+                "counter": "axe",
+                "score": 100
+            },
+            {
+                "counter": "dark_seer",
+                "score": 84
+            },
+            {
+                "counter": "winter_wyvern",
+                "score": 68
+            },
+            {
+                "counter": "naga_siren",
+                "score": 52
+            },
+            {
+                "counter": "warlock",
+                "score": 36
+            },
+            {
+                "counter": "sand_king",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "hero": "tidehunter",
+        "counters": [
+            {
+                "counter": "razor",
+                "score": 100
+            },
+            {
+                "counter": "elder_titan",
+                "score": 84
+            },
+            {
+                "counter": "omniknight",
+                "score": 68
+            },
+            {
+                "counter": "juggernaut",
+                "score": 52
+            },
+            {
+                "counter": "death_prophet",
+                "score": 36
+            },
+            {
+                "counter": "chen",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "hero": "timbersaw",
+        "counters": [
+            {
+                "counter": "pugna",
+                "score": 100
+            },
+            {
+                "counter": "silencer",
+                "score": 84
+            },
+            {
+                "counter": "faceless_void",
+                "score": 68
+            },
+            {
+                "counter": "medusa",
+                "score": 52
+            },
+            {
+                "counter": "outworld_destroyer",
+                "score": 36
+            },
+            {
+                "counter": "skywrath_mage",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "hero": "tinker",
+        "counters": [
+            {
+                "counter": "antimage",
+                "score": 100
+            },
+            {
+                "counter": "pugna",
+                "score": 84
+            },
+            {
+                "counter": "nyx_assassin",
+                "score": 68
+            },
+            {
+                "counter": "juggernaut",
+                "score": 52
+            },
+            {
+                "counter": "leshrac",
+                "score": 36
+            },
+            {
+                "counter": "visage",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "hero": "tiny",
+        "counters": [
+            {
+                "counter": "life_stealer",
+                "score": 100
+            },
+            {
+                "counter": "necrophos",
+                "score": 84
+            },
+            {
+                "counter": "viper",
+                "score": 68
+            },
+            {
+                "counter": "underlord",
+                "score": 52
+            },
+            {
+                "counter": "huskar",
+                "score": 36
+            },
+            {
+                "counter": "templar_assassin",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "hero": "treant",
+        "counters": [
+            {
+                "counter": "phoenix",
+                "score": 100
+            },
+            {
+                "counter": "timbersaw",
+                "score": 84
+            },
+            {
+                "counter": "primal_beast",
+                "score": 68
+            },
+            {
+                "counter": "juggernaut",
+                "score": 52
+            },
+            {
+                "counter": "batrider",
+                "score": 36
+            },
+            {
+                "counter": "necrophos",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "hero": "troll_warlord",
+        "counters": [
+            {
+                "counter": "axe",
+                "score": 100
+            },
+            {
+                "counter": "slark",
+                "score": 84
+            },
+            {
+                "counter": "razor",
+                "score": 68
+            },
+            {
+                "counter": "winter_wyvern",
+                "score": 52
+            },
+            {
+                "counter": "outworld_destroyer",
+                "score": 36
+            },
+            {
+                "counter": "naga_siren",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "hero": "tusk",
+        "counters": [
+            {
+                "counter": "chen",
+                "score": 100
+            },
+            {
+                "counter": "underlord",
+                "score": 84
+            },
+            {
+                "counter": "terrorblade",
+                "score": 68
+            },
+            {
+                "counter": "timbersaw",
+                "score": 52
+            },
+            {
+                "counter": "dark_willow",
+                "score": 36
+            },
+            {
+                "counter": "dawnbreaker",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "hero": "underlord",
+        "counters": [
+            {
+                "counter": "rubick",
+                "score": 100
+            },
+            {
+                "counter": "juggernaut",
+                "score": 84
+            },
+            {
+                "counter": "life_stealer",
+                "score": 68
+            },
+            {
+                "counter": "ursa",
+                "score": 52
+            },
+            {
+                "counter": "huskar",
+                "score": 36
+            },
+            {
+                "counter": "elder_titan",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "hero": "undying",
+        "counters": [
+            {
+                "counter": "medusa",
+                "score": 100
+            },
+            {
+                "counter": "luna",
+                "score": 84
+            },
+            {
+                "counter": "naga_siren",
+                "score": 68
+            },
+            {
+                "counter": "venomancer",
+                "score": 52
+            },
+            {
+                "counter": "gyrocopter",
+                "score": 36
+            },
+            {
+                "counter": "elder_titan",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "hero": "ursa",
+        "counters": [
+            {
+                "counter": "phantom_lancer",
+                "score": 100
+            },
+            {
+                "counter": "naga_siren",
+                "score": 84
+            },
+            {
+                "counter": "wraith_king",
+                "score": 68
+            },
+            {
+                "counter": "broodmother",
+                "score": 52
+            },
+            {
+                "counter": "razor",
+                "score": 36
+            },
+            {
+                "counter": "clinkz",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "hero": "vengefulspirit",
+        "counters": [
+            {
+                "counter": "phantom_lancer",
+                "score": 100
+            },
+            {
+                "counter": "antimage",
+                "score": 84
+            },
+            {
+                "counter": "chaos_knight",
+                "score": 68
+            },
+            {
+                "counter": "naga_siren",
+                "score": 52
+            },
+            {
+                "counter": "lone_druid",
+                "score": 36
+            },
+            {
+                "counter": "tidehunter",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "hero": "venomancer",
+        "counters": [
+            {
+                "counter": "storm_spirit",
+                "score": 100
+            },
+            {
+                "counter": "dark_seer",
+                "score": 84
+            },
+            {
+                "counter": "arc_warden",
+                "score": 68
+            },
+            {
+                "counter": "tinker",
+                "score": 52
+            },
+            {
+                "counter": "phantom_lancer",
+                "score": 36
+            },
+            {
+                "counter": "slark",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "hero": "viper",
+        "counters": [
+            {
+                "counter": "phantom_lancer",
+                "score": 100
+            },
+            {
+                "counter": "naga_siren",
+                "score": 84
+            },
+            {
+                "counter": "arc_warden",
+                "score": 68
+            },
+            {
+                "counter": "terrorblade",
+                "score": 52
+            },
+            {
+                "counter": "dark_seer",
+                "score": 36
+            },
+            {
+                "counter": "chaos_knight",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "hero": "visage",
+        "counters": [
+            {
+                "counter": "chen",
+                "score": 100
+            },
+            {
+                "counter": "winter_wyvern",
+                "score": 84
+            },
+            {
+                "counter": "phantom_lancer",
+                "score": 68
+            },
+            {
+                "counter": "underlord",
+                "score": 52
+            },
+            {
+                "counter": "axe",
+                "score": 36
+            },
+            {
+                "counter": "omniknight",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "hero": "void_spirit",
+        "counters": [
+            {
+                "counter": "meepo",
+                "score": 100
+            },
+            {
+                "counter": "huskar",
+                "score": 84
+            },
+            {
+                "counter": "io",
+                "score": 68
+            },
+            {
+                "counter": "lone_druid",
+                "score": 52
+            },
+            {
+                "counter": "broodmother",
+                "score": 36
+            },
+            {
+                "counter": "night_stalker",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "hero": "warlock",
+        "counters": [
+            {
+                "counter": "tidehunter",
+                "score": 100
+            },
+            {
+                "counter": "weaver",
+                "score": 84
+            },
+            {
+                "counter": "sand_king",
+                "score": 68
+            },
+            {
+                "counter": "lycan",
+                "score": 52
+            },
+            {
+                "counter": "phoenix",
+                "score": 36
+            },
+            {
+                "counter": "bristleback",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "hero": "weaver",
+        "counters": [
+            {
+                "counter": "naga_siren",
+                "score": 100
+            },
+            {
+                "counter": "faceless_void",
+                "score": 84
+            },
+            {
+                "counter": "phantom_lancer",
+                "score": 68
+            },
+            {
+                "counter": "morphling",
+                "score": 52
+            },
+            {
+                "counter": "rubick",
+                "score": 36
+            },
+            {
+                "counter": "puck",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "hero": "windrunner",
+        "counters": [
+            {
+                "counter": "axe",
+                "score": 100
+            },
+            {
+                "counter": "centaur",
+                "score": 84
+            },
+            {
+                "counter": "queenofpain",
+                "score": 68
+            },
+            {
+                "counter": "mars",
+                "score": 52
+            },
+            {
+                "counter": "faceless_void",
+                "score": 36
+            },
+            {
+                "counter": "puck",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "hero": "winter_wyvern",
+        "counters": [
+            {
+                "counter": "timbersaw",
+                "score": 100
+            },
+            {
+                "counter": "sand_king",
+                "score": 84
+            },
+            {
+                "counter": "antimage",
+                "score": 68
+            },
+            {
+                "counter": "pugna",
+                "score": 52
+            },
+            {
+                "counter": "undying",
+                "score": 36
+            },
+            {
+                "counter": "necrophos",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "hero": "witch_doctor",
+        "counters": [
+            {
+                "counter": "medusa",
+                "score": 100
+            },
+            {
+                "counter": "riki",
+                "score": 84
+            },
+            {
+                "counter": "muerta",
+                "score": 68
+            },
+            {
+                "counter": "pangolier",
+                "score": 52
+            },
+            {
+                "counter": "faceless_void",
+                "score": 36
+            },
+            {
+                "counter": "puck",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "hero": "wraith_king",
+        "counters": [
+            {
+                "counter": "phantom_lancer",
+                "score": 100
+            },
+            {
+                "counter": "underlord",
+                "score": 84
+            },
+            {
+                "counter": "necrophos",
+                "score": 68
+            },
+            {
+                "counter": "naga_siren",
+                "score": 52
+            },
+            {
+                "counter": "lone_druid",
+                "score": 36
+            },
+            {
+                "counter": "warlock",
+                "score": 20
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "hero": "zeus",
+        "counters": [
+            {
+                "counter": "chen",
+                "score": 100
+            },
+            {
+                "counter": "meepo",
+                "score": 84
+            },
+            {
+                "counter": "batrider",
+                "score": 68
+            },
+            {
+                "counter": "void_spirit",
+                "score": 52
+            },
+            {
+                "counter": "storm_spirit",
+                "score": 36
+            },
+            {
+                "counter": "visage",
+                "score": 20
+            }
+        ]
+    }
+]
