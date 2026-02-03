@@ -33,3 +33,4 @@ counterpick/ml/runs/**
 counterpick/ml/runs/detect/train/*
 !counterpick/ml/runs/detect/train/weights/
 !counterpick/ml/runs/detect/train/weights/*.pt
+counterpick/scripts_for_help/BEZEXE_screenshot_detector_video.py
