@@ -25,6 +25,7 @@ counterpick/release_stub/
 *.zip
 *.bin
 *.mp4
+*.spec
 
 # --- YOLO runs (keep only weights) ---
 counterpick/ml/runs/**
